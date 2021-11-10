@@ -1,0 +1,124 @@
+
+C:\Users\Admin\Desktop>java DataBase
+
+=========================================
+
+===========JDBC APLLICATION==============
+
+1:Read(Show data from record from table)
+2:Create(Insert new record into table.)
+3:Update(update record from table)
+4:Delete(Delete record from table)
+5:Exit.
+
+=========================================
+
+Please enter your choice:1
+RollNo:11,Name:Amit,Address:karve road Pune,Marks:78
+RollNo:12,Name:Vishal,Address:sinhagad road Pune,Marks:98
+RollNo:13,Name:Sumit,Address:Mumbai,Marks:91
+RollNo:14,Name:Aniket,Address:Sangli,Marks:56
+RollNo:15,Name:Amar,Address:Satara,Marks:86
+RollNo:16,Name:Amay,Address:Pune,Marks:76
+RollNo:17,Name:Sagar,Address:Pune,Marks:95
+RollNo:18,Name:Amit,Address:Pune,Marks:85
+
+=========================================
+
+===========JDBC APLLICATION==============
+
+1:Read(Show data from record from table)
+2:Create(Insert new record into table.)
+3:Update(update record from table)
+4:Delete(Delete record from table)
+5:Exit.
+
+=========================================
+
+Please enter your choice:2
+Enter Roll No:
+19
+Enter Name:
+Kalyani
+Enter Address:
+Aurangabad
+Enter Marks:90
+Record inserted successfully.
+
+=========================================
+
+===========JDBC APLLICATION==============
+
+1:Read(Show data from record from table)
+2:Create(Insert new record into table.)
+3:Update(update record from table)
+4:Delete(Delete record from table)
+5:Exit.
+
+=========================================
+
+Please enter your choice:1
+RollNo:11,Name:Amit,Address:karve road Pune,Marks:78
+RollNo:12,Name:Vishal,Address:sinhagad road Pune,Marks:98
+RollNo:13,Name:Sumit,Address:Mumbai,Marks:91
+RollNo:14,Name:Aniket,Address:Sangli,Marks:56
+RollNo:15,Name:Amar,Address:Satara,Marks:86
+RollNo:16,Name:Amay,Address:Pune,Marks:76
+RollNo:17,Name:Sagar,Address:Pune,Marks:95
+RollNo:18,Name:Amit,Address:Pune,Marks:85
+RollNo:19,Name:Kalyani,Address:Aurangabad,Marks:90
+
+=========================================
+
+===========JDBC APLLICATION==============
+
+1:Read(Show data from record from table)
+2:Create(Insert new record into table.)
+3:Update(update record from table)
+4:Delete(Delete record from table)
+5:Exit.
+
+=========================================
+
+Please enter your choice:4
+Enter Roll No:18
+Recoed Deleted successfully.
+
+=========================================
+
+===========JDBC APLLICATION==============
+
+1:Read(Show data from record from table)
+2:Create(Insert new record into table.)
+3:Update(update record from table)
+4:Delete(Delete record from table)
+5:Exit.
+
+=========================================
+
+Please enter your choice:1
+RollNo:11,Name:Amit,Address:karve road Pune,Marks:78
+RollNo:12,Name:Vishal,Address:sinhagad road Pune,Marks:98
+RollNo:13,Name:Sumit,Address:Mumbai,Marks:91
+RollNo:14,Name:Aniket,Address:Sangli,Marks:56
+RollNo:15,Name:Amar,Address:Satara,Marks:86
+RollNo:16,Name:Amay,Address:Pune,Marks:76
+RollNo:17,Name:Sagar,Address:Pune,Marks:95
+RollNo:19,Name:Kalyani,Address:Aurangabad,Marks:90
+
+=========================================
+
+===========JDBC APLLICATION==============
+
+1:Read(Show data from record from table)
+2:Create(Insert new record into table.)
+3:Update(update record from table)
+4:Delete(Delete record from table)
+5:Exit.
+
+=========================================
+
+Please enter your choice:5
+Thank you for using JDBC application.
+
+C:\Users\Admin\Desktop>
